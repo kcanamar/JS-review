@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Kyle Canamar",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
 }
